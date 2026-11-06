@@ -8,3 +8,4 @@ module top_module(
 	assign out = enable ? 1 << in : 4'd0;
 endmodule
 
+
